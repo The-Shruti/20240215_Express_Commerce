@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Product1",
+    "description": "Protection Herbour",
+    "price": 10,
+    "stock": 100,
+    "image": "https://off.com.ph/en-ph/product/off-overtime"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "Colgate",
+    "price": 20,
+    "stock": 150,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.colgate.com%2Fen-us%2Fproducts&psig=AOvVaw0efKwXDUTqFXnwnKkkilIM&ust=1708081444946000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjTjLGZrYQDFQAAAAAdAAAAABAJ"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "description": "New description for Product 3",
+    "price": 100,
+    "stock": 200,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cosmopolitan.com%2Fuk%2Fbeauty-hair%2Fg14191580%2Fbest-skin-care-products%2F&psig=AOvVaw0efKwXDUTqFXnwnKkkilIM&ust=1708081444946000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjTjLGZrYQDFQAAAAAdAAAAABAS"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "description": "Skincare",
+    "price": 90,
+    "stock": 200,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.healthline.com%2Fhealth%2Fwomens-health%2Fhers-review&psig=AOvVaw0efKwXDUTqFXnwnKkkilIM&ust=1708081444946000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjTjLGZrYQDFQAAAAAdAAAAABAi"
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 80,
+    "stock": 20,
+    "image": "https://www.example.com/product6_image.jpg"
+  },
+  {
+    "id": 7,
+    "name": "New Product 7",
+    "description": "Description of the new product 7",
+    "price": 99.99,
+    "stock": 50
+  },
+  {
+    "id": 8,
+    "name": "New Product 8",
+    "description": "Description of the new product 8",
+    "price": 130,
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "name": "New Product 9",
+    "description": "Description of the new product 9",
+    "price": 110,
+    "stock": 25
+  }
+]

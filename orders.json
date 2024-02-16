@@ -1,0 +1,24 @@
+[
+  {},
+  {
+    "o_id": "1cbca715-8428-4f88-91ed-14aab02fc02b",
+    "o_date": "2024-02-15T17:51:43.363Z",
+    "o_address": "123 Main St, City",
+    "o_status": "pending",
+    "o_totalcost": 200
+  },
+  {
+    "o_id": "8a21a117-fd1e-438b-8d3f-c0a18ec4764b",
+    "o_date": "2024-02-15T18:15:56.955Z",
+    "o_address": "145 Hitech city Hyderabad",
+    "o_status": "pending",
+    "o_totalcost": 100
+  },
+  {
+    "o_id": "b6e000ff-9695-4561-8559-cdfe61569776",
+    "o_date": "2024-02-16T01:43:37.173Z",
+    "o_address": "123 Main Street, City",
+    "o_status": "placed",
+    "o_totalcost": 100
+  }
+]
